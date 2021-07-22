@@ -1,5 +1,3 @@
 # TIL
-
-[Start TIL](https://doing7.tistory.com/4)
-[Connect VScode to Github](https://0ver-grow.tistory.com/888)
-[How to make hyperlink in README.md](https://velog.io/@dblee/%EA%B9%83%ED%97%88%EB%B8%8CMarkdown-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%A7%81%ED%81%AC-%EA%B1%B8%EA%B8%B0)
+[210721 TIL](./TILEnvironment.html) TIL 시작을 위해 VScode에 github 연결, commit 시도하였으나 사용자 설정정보 입력문제로 안됨
+[210722 TIL](./TILEnvironment.html) git 사용자 설정정보 입력하여 commit & push 완료
